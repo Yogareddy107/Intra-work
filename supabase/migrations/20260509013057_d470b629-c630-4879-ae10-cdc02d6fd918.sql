@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Avatars publicly readable" ON storage.objects;
